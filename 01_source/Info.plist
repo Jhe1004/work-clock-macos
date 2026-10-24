@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleDisplayName</key><string>工作时钟</string>
+<key>CFBundleExecutable</key><string>WorkTime</string>
+<key>CFBundleIconFile</key><string>AppIcon.png</string>
+<key>CFBundleIdentifier</key><string>com.jianhe.worktime</string>
+<key>CFBundleName</key><string>WorkTime</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>1.4.0</string>
+<key>CFBundleVersion</key><string>10</string>
+<key>LSMinimumSystemVersion</key><string>14.0</string>
+<key>LSUIElement</key><false/>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSPrincipalClass</key><string>NSApplication</string>
+</dict></plist>
